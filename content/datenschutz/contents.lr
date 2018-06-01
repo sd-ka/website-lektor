@@ -2,10 +2,16 @@ _model: material
 ---
 title: Datenschutz
 ---
-body:
+spruch:
+Datenschutz und Kopierrechte
+---
+subtitle1: Welche Gefahren drohen dir hier?
+---
+body1:
 
-Datenschutz ist auch für Waffeln und waffelnahen Lebensformen ein wichtiger Schwerpunkt. Deshalb versuchen wir hier mal
-verständlich zu machen, was diese Website kann und tut und darf. Bei Verständnisfragen oder Inkonsistenzen fragt bitte!
+Inline-Karlsruhe bemüht sich auf diesen Webseiten richtige und vollständige Informationen zur Verfügung zu stellen.
+Datenschutz ist auch für Inlineskater und nicht erst seit den facebook/Cambridge Analytica-Vorfällen ein wichtiger Schwerpunkt.
+Deshalb versuchen wir hier mal verständlich zu machen, was diese Website kann und tut und darf. Bei Verständnisfragen oder Inkonsistenzen bitte fragen!
 
 Diese Website kann grundsätzlich absolut anonym genutzt werden – ihr braucht keine Namen, Mailadressen, oder sonstwas
 dafür angeben. Wir nutzen auch keine Cookies, um nachzuvollziehen, wer die Website wie oft wann besucht. Wir tracken die
@@ -13,8 +19,8 @@ Websitenbesucher auch sonst nicht.
 
 Wir erfassen anonymisiert (ohne IP-Adresse), wie viele Menschen wann auf die Website zugreifen (Zeitpunkt, abgefragte
 Adresse, vom Browser mitgeschickter Browser-Identifier und Referrer), aber wir können und wollen das nicht auf Personen
-zurückverfolgen. Da wir unsere Websiten alle selber betreiben, liegen selbst diese anonymen Informationen nur bei uns,
-und nur das Admin-Team hat Zugriff darauf. Wir übermitteln diese Daten an niemanden sonst.
+zurückverfolgen. <!--Da wir unsere Websiten alle selber betreiben, liegen selbst diese anonymen Informationen nur bei uns,
+und nur das Admin-Team hat Zugriff darauf. Wir übermitteln diese Daten an niemanden sonst.-->
 
 Dadurch dass wir diese Websites verschlüsselt (über SSL/TLS, ihrwisstschon, HTTPS) anbieten, helfen wir weiter dabei,
 eure Daten zu schützen, weil so nicht einfach von Dritten einsehbar ist, welche Inhalte ihr abruft. Wir können aber nicht
@@ -22,7 +28,25 @@ garantieren, dass nicht irgendwo im HTTPS-Protokoll oder den Implementierungen, 
 (Wenn das so ist, dann erfahrt ihr das aber definitiv aus den Nachrichten, sobald es rauskommt.)
 
 Zu unserem eigenen Schutz: Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
+Inline-Karlsruhe übernimmt keine Haftung oder Garantie für die Richtigkeit und Vollständigkeit der auf diesen Webseiten bereitgestellten Informationen. Dies gilt auch für alle Verbindungen ("Links"), auf die diese Webseite direkt oder indirekt verweist. Inline-Karlsruhe ist für den Inhalt einer Seite, die mit einem solchen Link erreicht wird, nicht verantwortlich.
+
+Soweit nicht anders angegeben, liegen alle Rechte für Texte, Bilder, Videos, Ton, Animationen, Audio bei Inline-Karlsruhe und sind im Rahmen des Urheberrechts geschützt. Kein Teil (ob Text, Bild, Graphik, Video, Ton, Animation) der Web-Seiten darf reproduziert, oder in irgendeiner Form elektronisch oder mechanisch kopiert, verarbeitet, verändert, verteilt oder in einem interaktiven Medium verwendet werden ohne ausdrückliche Genehmigung in Schriftform durch Inline-Karlsruhe.
+
+Der Inhalt der Webseiten von Inline-Karlsruhe ist urheberrechtlich geschützt.  
+Copyright © Inline-Karlsruhe
+
+Inline-Karlsruhe  
+c/o Michael Fautz  
+Kandelstrasse 27  
+76297 Stutensee
+
+
+Website Design: Michael Fautz, Christoph Vedder -- inspiriert vom [c3woc](https://c3woc.de).
 ---
-spruch: Mit Waffeln Daten schützen!
+subtitle2: Zur Rechtslage der "externen" Links:
 ---
-subtitle: Welche gefahren drohen dir hier?
+body2:
+Mit Urteil vom 12. Mai 1998 hat das Landgericht Hamburg entschieden, dass mit Ausbringung eines Links die Inhalte der gelinkten Seite ggf. mit zu verantworten sind. Dies kann - so das Landgericht - nur dadurch verhindert werden, dass man sich von diesen Inhalten ausdrücklich distanziert. Wir haben Links zu anderen Seiten im Internet gelegt.
+Für alle diese Links gilt: Wir möchten betonen, dass wir keinerlei Einfluss auf die Inhalte oder die Gestaltung der gelinkten Seiten haben. Deshalb distanzieren wir uns hiermit ausdrücklich von allen Inhalten aller Seiten, die von unseren Seiten verlinkt sind. Die Inhalte dieser Seiten machen wir uns nicht zu eigen. Diese Erklärung gilt für alle auf unseren Seiten angebrachten Links und für die Inhalte aller Seiten, zu denen die angebrachten Links führen. 
+---
