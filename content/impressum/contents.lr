@@ -2,6 +2,10 @@ _model: site
 ---
 title: Impressum
 ---
+spruch: So erreicht Ihr uns...
+---
+subtitle: Kontaktmöglichkeiten
+---
 body:
 
 Mail:
@@ -18,7 +22,3 @@ c/o Michael Fautz
 Kandelstraße 27
 76297 Stutensee
 ```
----
-subtitle: Kontaktmöglichkeiten
----
-spruch: So erreicht Ihr uns...

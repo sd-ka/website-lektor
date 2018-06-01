@@ -1,107 +1,61 @@
+title: Hier kommt die Skatedemo Karlsruhe
+---
+as01h1: Warum eine Skatedemo in Karlsruhe?
+---
 as01b1:
 
-Wir sind Nerds und Hacker aus dem Chaosumfeld. <br/>
-Wir haben an einigen strategisch wichtigen Orten im Chaos Waffeleisen deponiert.<br/>
-**Und wir werden Sie benutzen!**
+Eine Demonstration von Inlineskatern in Karlsruhe? Ja, aber warum keine SkateNite?
+
+Auf Grund verschiedener Umstände und behördlicher Randbedingungen ist die SkateDemo-Karlsruhe die Antwort auf den Tod der langjährigen und erfolgreichen Karlsruher SkateNite, welche vor Jahren bis zu über 3.000 Inlineskater zum Mitskaten animierte und einen Teilnehmer-Einzugsradius hatte, welcher sich vom Rhein-Neckargebiet, dem Kraichgau, der Pfalz bis weit in die Ortenau und ins benachbarte Elsass erstreckte.
+
+Vor dem Hintergrund nachlassender Bestrebungen zur Fortführung der SkateNite-Karlsruhe fand 2016 noch eine einzelne, letzte SkateNite im etablierten Rahmen statt. Bei dieser letzten SkateNite waren trotz allem um 1.000 Inlineskater am Start, welches den Zuspruch, die große Resonanz und den Bedarf einer solchen Breitensport-Veranstaltung in Karlsruhe deutlich aufzeigte. Ungeachtet dessen war es 2017 nicht möglich, eine entsprechende Veranstaltung nochmals durchzuführen. Der elementare Grund hierfür war und ist bis heute, dass seitens des Polizeipräsidiums Karlsruhe „planbare“ Veranstaltungen, wie die Karlsruher SkateNite, nicht länger unterstützt werden. Infolgedessen sieht sich das Ordnungsamt Karlsruhe nicht mehr in der Lage, eine Veranstaltung wie die SkateNite zu genehmigen.
+
+Auf Grund dieser behördlichen Randbedingungen entstand seitens der Karlsruher Inlineskate-Szene die Überlegung, eine Skateveranstaltung im Rahmen einer Demonstration durchzuführen. Back to the roots: Wenngleich die Karlsruher SkateNite eine andere Historie hat, so sind doch einige Skatenights aus Demonstrationen hervorgegangen. An diese Tradition soll mit der SkateDemo-Karlsruhe angeknüpft und ab 2018 regelmäßige SkateDemos durchgeführt werden. Erklärtes Ziel hierbei ist, dafür zu demonstrieren, dass die Karlsruher SkateNite wieder im etablierten Rahmen mit behördlicher Genehmigung und Unterstützung der Ordnungskräfte durchgeführt werden kann.
 ---
-as01h1: Wer ist das C3WOC?
+as01img: skater6.jpeg
 ---
-title: Wir sind das C3WOC
----
-as01img: eisen.jpg
----
-as01d1: Unser Equipment
----
-as01l1: https://c3woc.de/equipment
----
-as02d1: Unser Rezept
----
-as02h1: Wie backen wir Waffeln
----
-as02l1: /rezepte/
+as02h1: Was ist die SkateDemo
 ---
 as02b1:
 
-Wir bereiten Waffeln mit viel Liebe zu. 
-Aber Liebe ist nicht alles.<br/>
-In einen guten Teig kommt natürlich auch noch ein Schluck Mate...
----
-as02img: waffel.jpg
----
-as03b1:
+Die SkateDemo-Karlsruhe unterscheidet sich grundlegend von der bislang etablierten Karlsruher SkateNite: Es ist davon auszugehen, dass die Geschwindigkeit der Demonstration bzw. des Skaterfeldes im Vergleich zur SkateNite geringer sein wird. Des Weiteren wird bei der SkateDemo kein Besenwagen am Ende des Skatefeldes mitfahren. Für Skate-Anfänger ist die Teilnahme an der SkateDemo-Karlsruhe aus diesem Grund nicht zu empfehlen. Ebenso wird SkateDemo-Karlsruhe wohl auch auf andere, von der SkateNite bekannten Highlights, wie dem Musikfahrzeug, Getränkeverkauf und Skateservice verzichten müssen.
 
-Wir sind Nerds und Leben im Internet.<br/>
-Wenn wir nicht gerade am Waffeln backen sind, wir dort fleißig am cybern.<br/>
-Am besten erreichst du uns im IRC
+Auch ohne den gewohnten, komfortablen Rahmen der Karlsruher SkateNite freuen sich die Initiatoren der SkateDemo-Karlsruhe über eine zahlreiche Teilnahme sowie tatkräftige und lautstarke Unterstützung. Mit der SkateDemo-Karlsruhe soll ein Zeichen für eine aktive und lebendige Stadt und eine generationenübergreifende und für alle Bevölkerungsschichten offene Veranstaltung in Karlsruhe gesetzt werden: Die Karlsruher SkateNite.
 ---
-as03d1: irc.hackint.org/#waffel
+as02img: skater5.jpeg
 ---
-as03h1: So erreichst du uns
----
-as03img: eh18.jpg
----
-as03l1: https://webirc.hackint.org/#irc://irc.hackint.org/#waffel
+where: Wann geht es los
 ---
 description:
 
-Wir haben es uns zur Aufgabe gemacht an einigen Hackveranstaltungen aufzutauchen und dort Waffeln zu backen.
-Aber natürlich auch ab und zu einfach so in ausgewählten Hackerspacen, zu Freifunk Treffen oder auch mal auf einem Hackerthon.
+Der Start der Demonstration findet auf dem Kronenplatz Karlsruhe statt. Los geht es jeweils um 19:30 Uhr.
 
-Selbstverständlich werden wir euch darüber unzuverlässig und unregelmäßig Informieren.
-Dies passiert nicht nur im [IRC](https://webirc.hackint.org/#irc://irc.hackint.org/#waffel), sondern auch über Kanäle wie [Mastodon](https://chaos.social/@c3WOC) oder [Twitter](https://twitter.com/c3WOC). 
+Anschrift für Navis
+===
+Kronenstr 36  
+76133 Karlsruhe
 
-Und natürlich wird darüber auch ab und zu im Blog berichtet. Über unseren [RSS Feed](https://c3woc.de/feed.xml) kannst du informiert bleiben.
 
 
- Unsere nächsten Events
+Unsere Demos in 2018
 ===
 
 
-<table><thead><tr><th>Datum</th><th>Veranstaltung</th><th>Ort</th></tr></thead>
+<table><thead><tr><th>Datum</th><th>Uhrzeit</th><th>Startpunkt</th></tr></thead>
 <tbody><tr>
-    <td>25.-27. Mai  2018</td>
-    <td><a href="https://www.c3d2.de/news/event-20180525-geekend-leipzig.html">Geekend dezentrale</a></td>
-    <td>Leipzig</td>
-</tr><tr>    
-    <td>2.-3. Juni  2018</td>
-    <td><a href="https://makerfairebodensee.com">Makerfaire Bodensee</a></td>
-    <td>Friedrichshafen</td>
-</tr><tr>    
-    <td>8-10. Juni  2018</td>
-    <td><a href="https://chaos-party-ulm.de/">CPU << Don't panic</a></td>
-    <td>Ulm</td>
-</tr><tr>    
-    <td>15.-17. Juni  2018</td>
-    <td><a href="https://cosin.ch">CoSin</a></td>
-    <td>Biel/Bienne</td>
-</tr><tr> 
-   <td>28.-29. Juli 2018</td>
-    <td><a href="https://www.galacon.eu/">GalaCon <i>(primär für Helfer)</i></a></td>
-    <td>Ludwigsburg</td>
-</tr><tr> 
-    <td>10.-12. August 2018</td>
-    <td><a href="http://ffbsee.de/pipermail/freifunk-bodensee/2018-May/000466.html">Freifunk Camp</a></td>
-    <td>Überlingen</td>
+    <td>28. Juni  2018</td>
+    <td>19:30 Uhr</td>
+    <td>Kronenplatz</td>
 </tr><tr>
-   <td>7.-9. September 2018</td>
-    <td><a href="https://2018.mrmcd.net/">MRMCD</a></td>
-    <td>Darmstadt</td>
-</tr><tr>
-   <td>9.-11. November 2018</td>
-    <td><a href="https://c3c3.de">C6 Geekend</a></td>
-    <td>Kiel</td>
-</tr><tr>
-<td>26.-30. Dezember 2018</td>
-    <td><a href="https://events.ccc.de/">35. Chaos Communication Congress</a></td>
-    <td>Leipzig</td>
-</tr><tr>    
-    <td>19. - 22. April 2019</td>
-    <td><a href="https://eh19.easterhegg.eu/">Easterhegg 2019</a></td>
-    <td>Wien</td>
+    <td>26. Juli  2018</td>
+    <td>19:30 Uhr</td>
+    <td>Kronenplatz</td>
 </tr></tfoot></table>
-	
-							
 
 
----
-where: Wo sind wir als nächstes
+Updates
+===
+Selbstverständlich werden wir euch über Neuigkeiten über die Demo auf dem Laufenden halten.  
+Dies passiert generell über [Twitter](https://twitter.com/skatedemo).
+
+Darüber wird auch ab und zu im Blog berichtet. Über unseren [RSS Feed](https://skatedemo-karlsruhe.de/feed.xml) kannst du informiert bleiben.

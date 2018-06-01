@@ -1,0 +1,14 @@
+[project]
+name = skatedemo-karlsruhe
+url = https://skatedemo-karlsruhe.de/
+
+[servers.skatedemo-karlsruhe]
+name = skatedemo-karlsruhe
+url = https://skatedemo-karlsruhe.de/
+url_style = absolute
+enabled = yes
+default = yes
+target = rsync://skatedemo@demo.ftxs.de/var/www/skatedemo-karlsruhe.de/web
+
+[packages]
+lektor-atom = 0.2

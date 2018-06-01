@@ -1,13 +1,10 @@
-![C3WOC](https://c3woc.de/images/logo/c3woc.svg "C3WOC")
 
-Die Seite [c3woc.de](https://c3woc.de) wird mithilfe des CMS [Lektor](https://getlektor.com) erstellt und bearbeitet.
+Die Seite [skatedemo-karlsruhe.de](https://skatedemo-karlsruhe.de) wird mithilfe des CMS [Lektor](https://getlektor.com) erstellt und bearbeitet.
 
  Git clonen:
 ---
 ```bash
-git clone https://git.see-base.de/l3d/c3woc.git
-cd c3woc
-git submodule update --init --recursive
+git clone https://github.com/sd-ka/website.git
 ```
 
  Seite bearbeiten:
@@ -15,6 +12,4 @@ git submodule update --init --recursive
 ```bash
 lektor server
 ```
-*Die Seite ist nun unter ``http://localhost:5000/`` erreichbar*
-
-
+*Die Seite ist nun unter ``http://localhost:5000/`` erreichbar. Lektor bietet eine einfache Möglichkeit, Inhalte auf basis von Vorlagen zu erstellen.*
